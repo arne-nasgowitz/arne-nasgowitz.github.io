@@ -4,15 +4,15 @@ navbar_name: "Arne Nasgowitz"
 
 positions:
 - logo: /assets/images/badges/snf.jpg  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  name: Researcher
+#- name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "arne.nasgowitz@snf.no"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+twitter: arnenasgowitz  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -25,9 +25,10 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My name is Arne Nasgowitz, and I am a Researcher at the Center for Applied Research (SNF) at the Norwegian School of Economics in Bergen. 
+    I completed my PhD at the Centre for Experimental Research on Fairness, Inequality and Rationality (FAIR) and the Department of Economics 
+    at NHH. 
+    I'm a development economist and my research mainly focuses on education, labor markets, female empowerment, time poverty, narratives and norms. 
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -36,13 +37,13 @@ portrait_caption: >-
 
 education:
 - name: Norwegian School of Economics
-  #logo: /assets/images/badges/fair.jpg
+  logo: /assets/images/badges/fair.jpg
   position: >- 
     Department of Economics, FAIR <br/>
     Ph.D. Student
   date: Aug. 2018 - 2024
 - name: Ruhr University
-  #logo: /assets/images/badges/rub.svg
+  logo: /assets/images/badges/rub.svg
   position: M.A. in Economics
   date: 2015 - 2018
 
