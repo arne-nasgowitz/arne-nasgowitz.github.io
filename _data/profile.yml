@@ -10,8 +10,8 @@ positions:
 
 email: "arne.nasgowitz@snf.no"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
+gscholar: uaHrSuwAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
+#github: your_github_id
 twitter: arnenasgowitz  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
@@ -22,12 +22,11 @@ twitter: arnenasgowitz  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
-  </p>
-  <p>
     My name is Arne Nasgowitz, and I am a Researcher at the Center for Applied Research (SNF) at the Norwegian School of Economics in Bergen. 
     I completed my PhD at the Centre for Experimental Research on Fairness, Inequality and Rationality (FAIR) and the Department of Economics 
     at NHH. 
+  </p>
+  <p>
     I'm a development economist and my research mainly focuses on education, labor markets, female empowerment, time poverty, narratives and norms. 
   </p>
 
