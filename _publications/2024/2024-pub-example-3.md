@@ -1,8 +1,8 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
+title:          "Long-Term Effects of Preschool Subsidies and Cash Transfers on Child Development: Evidence from Uganda"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "AEA Papers and Proceedings"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
