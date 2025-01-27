@@ -1,0 +1,25 @@
+---
+title:          "Childcare, Labor Supply, and Business Development: Experimental Evidence from Uganda"
+date:           2025-04-01 00:01:00 +0800
+selected:       true
+pub:            "AEK: applied"
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2025"
+
+abstract: >-
+ We randomly offered a childcare subsidy, an equivalent cash grant, or both to mothers of three-to-five-year-old children. The childcare subsidy substantially increased labor supply and earnings of single mothers, highlighting the importance of time constraints for them. Among couples, childcare did not affect mothers’ labor market outcomes but instead increased fathers’ salaried employment. At the household level, childcare led to higher income, consumption and improved child development. Cash grants positively affected mothers’ labor supply and income irrespective of the household structure, suggesting the general importance of credit constraints for women’s business development.
+cover:          /assets/images/covers/cover_aea.webp
+authors:
+  - Kjetil Bjorvatn
+  - Denise Ferris
+  - Selim Gulesci
+  - Arne Nasgowitz
+  - Vincent Somville
+  - Lore Vandewalle
+links:
+  AEJ:applied: https://www.aeaweb.org/articles?id=10.1257/app.20230227
+  VoxDev: https://voxdev.org/topic/public-economics/impact-subsidised-childcare-household-income-evidence-uganda
+  Development Impact: https://blogs.worldbank.org/en/impactevaluations/money-v-time
+---
