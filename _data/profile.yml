@@ -36,13 +36,13 @@ portrait_caption: >-
 
 education:
 - name: Norwegian School of Economics
-  logo: /assets/images/badges/fair.jpg
+  #logo: /assets/images/badges/fair.jpg
   position: >- 
     Department of Economics, FAIR <br/>
     Ph.D. Student
   date: Aug. 2018 - 2024
 - name: Ruhr University
-  logo: /assets/images/badges/rub.svg
+  #logo: /assets/images/badges/rub.svg
   position: M.A. in Economics
   date: 2015 - 2018
 
