@@ -1,0 +1,19 @@
+---
+title:          "Kindergardens for development"
+date:           2019-010-07 00:01:00 +0800
+# selected:       true
+type:           "Other"
+pub:            "Magma"
+# pub_pre:        "Submitted"
+# pub_post:       'Under review.'
+pub_last:       "(in Norwegian)"
+pub_date:       "2019"
+
+abstract: >-
+  
+cover:          /assets/images/covers/cover_aea.webp
+authors:
+  - Akshay Moorthy
+links:
+  Paper: https://magmaforskning.econa.no/index.php/magma/article/view/1196
+---
