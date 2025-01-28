@@ -45,6 +45,10 @@ education:
   logo: /assets/images/badges/rub.svg
   position: M.A. in Economics
   date: 2015 - 2018
+- name: University of Hohenheim
+  logo: /assets/images/badges/hohenheim.jpg
+  position: B.A. in Economics
+  date: 2011 - 2014
 
 # experience:
 # - name: Peking University
