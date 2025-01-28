@@ -2,6 +2,7 @@
 title:          "Long-Term Effects of Preschool Subsidies and Cash Transfers on Child Development: Evidence from Uganda"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
+type:           "Publication"
 pub:            "AEA Papers and Proceedings"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
