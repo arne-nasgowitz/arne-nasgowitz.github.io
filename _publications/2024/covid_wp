@@ -1,0 +1,24 @@
+---
+title:          "Cash Transfers and Business Survival During Covid: Evidence from Uganda"
+date:           2024-010-07 00:01:00 +0800
+selected:       true
+type:           "Working Paper"
+# pub:            "PEDL"
+pub_pre:        "Submitted"
+# pub_post:       'Under review.'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2024"
+
+abstract: >-
+  The Covid-19 pandemic and the lockdown policies that followed led to a sharp economic downturn. Many countries used cash transfers to curb the negative effects on vulnerable households but little is known about the effects of such transfers in a time of crisis, when markets are closed and movements are restricted. In this paper, we study the impacts of cash transfers to households in Uganda. Leveraging differences in the timing of the intervention, we show that the temporary cash transfers improved business outcomes during the pandemic and had persistent, positive effects on household income, savings and food security.
+cover:          /assets/images/covers/cover_aea.webp
+authors:
+  - Kjetil Bjorvatn
+  - Denise Ferris
+  - Selim Gulesci
+  - Arne Nasgowitz
+  - Vincent Somville
+  - Lore Vandewalle
+links:
+  WP: https://pedl.cepr.org/publications/cash-transfers-and-business-survival-during-covid-evidence-uganda
+---
