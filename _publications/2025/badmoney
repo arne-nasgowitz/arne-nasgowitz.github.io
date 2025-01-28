@@ -4,9 +4,9 @@ date:           2025-04-01 00:01:00 +0800
 selected:       false
 type:           "Work in Progress"
 # pub:            "AEJ: Applied Economics (forthcoming)"
-pub_pre:        "Submitted"
+# pub_pre:        "Submitted"
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       "(Submitted)"
 pub_date:       "2025"
 
 abstract: >-
