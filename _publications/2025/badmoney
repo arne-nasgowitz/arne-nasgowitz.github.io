@@ -1,0 +1,20 @@
+---
+title:          "Bad Money? Witchcraft Beliefs and Fairness Views in Kenya"
+date:           2025-04-01 00:01:00 +0800
+selected:       true
+type:           "Work in Progress"
+# pub:            "AEJ: Applied Economics (forthcoming)"
+pub_pre:        "Submitted"
+# pub_post:       'Under review.'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2025"
+
+abstract: >-
+Witchcraft beliefs, common in African societies, shape attitudes toward income and inequality. A lab experiment in Nairobi reveals divergent views: some see income from occult practices as undeserved and redistribute or destroy it, while others view it as legitimate business investment. These findings inform understanding of inequality and redistribution demands.
+cover:          /assets/images/covers/cover_aea.webp
+authors:
+  - Kjetil Bjorvatn
+  - Mario Schmidt
+links:
+  #AEJ:applied: https://www.aeaweb.org/articles?id=10.1257/app.20230227
+---
