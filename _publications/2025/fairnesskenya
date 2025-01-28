@@ -1,0 +1,20 @@
+---
+title:          "Fair inequality"
+date:           2024-010-07 00:01:00 +0800
+# selected:       true
+type:           "Work in Progress"
+# pub:            "PEDL"
+# pub_pre:        "Submitted"
+# pub_post:       'Under review.'
+pub_last:       "(Draft in preparation)"
+pub_date:       "2025"
+
+abstract: >-
+  We conducted a series of lab experiments in Nairobi with 202 participants from diverse socio-economic backgrounds. Using a spectator design, the participants made incentivized allocation decisions, where we vary the source of inequality (performance or luck) and the efficiency cost of equalization. Based on a conceptual framework, we classify the participants into fairness types according to their allocation decisions and elicit their beliefs about the fairness norms in society. Our findings shed light on the plurality of fairness ideals in a low-income context and point to how misperception of such ideals may lead to misguided policies.
+cover:          /assets/images/covers/fairness.webp
+authors:
+  - Kjetil Bjorvatn
+  - Nicola Coniglio
+links:
+  #WP: https://pedl.cepr.org/publications/cash-transfers-and-business-survival-during-covid-evidence-uganda
+---
