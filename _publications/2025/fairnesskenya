@@ -10,7 +10,7 @@ pub_last:       "(Draft in preparation)"
 pub_date:       "2025"
 
 abstract: >-
-  We conducted a series of lab experiments in Nairobi with 202 participants from diverse socio-economic backgrounds. Using a spectator design, the participants made incentivized allocation decisions, where we vary the source of inequality (performance or luck) and the efficiency cost of equalization. Based on a conceptual framework, we classify the participants into fairness types according to their allocation decisions and elicit their beliefs about the fairness norms in society. Our findings shed light on the plurality of fairness ideals in a low-income context and point to how misperception of such ideals may lead to misguided policies.
+  Fairness perceptions are important for policy-making and social cohesion. In a series of lab experiments conducted in Nairobi, we contrast the fairness views of university participants and those from an informal settlement. We find a plurality of fairness ideals, including those favoring luck over effort and strong misperceptions about the 'poor'. Such misperceptions may lead to misguided policies.
 cover:          /assets/images/badges/fairness.webp
 authors:
   - Kjetil Bjorvatn
