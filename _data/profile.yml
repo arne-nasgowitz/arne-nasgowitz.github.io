@@ -32,7 +32,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  #Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Norwegian School of Economics
@@ -55,5 +55,5 @@ education:
 awards:
 - name: <b>Development Economics</b>
 - name: Education
-- name: Entrepreneurship
+- name: Labor markets
 - name: Traditional Beliefs
