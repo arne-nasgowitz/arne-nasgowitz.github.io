@@ -6,28 +6,34 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-type" data-offset="100"
 ---
 
+{% assign type_order = "Publication,Working Paper,Work in Progress,Other" | split: "," %}
 {% assign pubs_by_type = site.publications | group_by: "type" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
-        {% for type_group in pubs_by_type %}
-        {% assign num_papers = type_group.items | size %}
-        <h2 class="pt-4" id="type-{{ type_group.name }}">{{ type_group.name | capitalize }}</h2>
-        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
-            {% for item in type_group.items %}
-                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
-            {% endfor %}
-        </div>
+        {% for type in type_order %}
+            {% assign type_group = pubs_by_type | where: "name", type | first %}
+            {% if type_group %}
+                <h2 class="pt-4" id="type-{{ type_group.name }}">{{ type_group.name | capitalize }}</h2>
+                <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+                    {% for item in type_group.items %}
+                        {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                    {% endfor %}
+                </div>
+            {% endif %}
         {% endfor %}
     </div>
 
     <div class="col-2 d-none d-lg-block">
-        <div id="navbar-type" class="nav nav-pills flex-column sticky-top" style="top: 80px">
-            {% for type_group in pubs_by_type %}
-            <a class="nav-link d-block" href="#type-{{ type_group.name }}">{{ type_group.name | capitalize }}</a>
+        <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+            {% for type in type_order %}
+                {% assign type_group = pubs_by_type | where: "name", type | first %}
+                {% if type_group %}
+                    <a class="nav-link d-block" href="#type-{{ type_group.name }}">{{ type_group.name | capitalize }}</a>
+                {% endif %}
             {% endfor %}
         </div>
     </div>
-
 </div>
+
 
