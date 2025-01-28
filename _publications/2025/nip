@@ -1,0 +1,19 @@
+---
+title:          "Identity affecting situations and the Dictator's game"
+date:           2025-04-01 00:01:00 +0800
+selected:       false
+type:           "Work in Progress"
+# pub:            "AEJ: Applied Economics (forthcoming)"
+# pub_pre:        "Submitted"
+# pub_post:       'Under review.'
+pub_last:       "(Draft in progress)"
+pub_date:       "2025"
+
+abstract: >-
+  In an online experiment, we explore distributive choices in identity-affecting vs. identity-preserving situations and intuitions about the non-identity problem. Results show individuals treat both contexts similarly, suggesting intuitive acceptance of person-affecting views and offering insights into Population Ethics and Experimental Economics.
+cover:          /assets/images/covers/badmoney.webp
+authors:
+  - Pablo Soto-Mota
+links:
+  #AEJ:applied: https://www.aeaweb.org/articles?id=10.1257/app.20230227
+---
