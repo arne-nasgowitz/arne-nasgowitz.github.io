@@ -6,12 +6,12 @@ type:           "Work in Progress"
 # pub:            "AEJ: Applied Economics (forthcoming)"
 # pub_pre:        "Submitted"
 # pub_post:       'Under review.'
-pub_last:       "(Draft in progress)"
+pub_last:       "(Draft in preparation)"
 pub_date:       "2025"
 
 abstract: >-
   In an online experiment, we explore distributive choices in identity-affecting vs. identity-preserving situations and intuitions about the non-identity problem. Results show individuals treat both contexts similarly, suggesting intuitive acceptance of person-affecting views and offering insights into Population Ethics and Experimental Economics.
-cover:          /assets/images/covers/badmoney.webp
+cover:          /assets/images/covers/dictator.jpeg
 authors:
   - Pablo Soto-Mota
 links:
