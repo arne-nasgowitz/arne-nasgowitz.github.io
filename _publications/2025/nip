@@ -13,6 +13,7 @@ abstract: >-
   In an online experiment, we explore distributive choices in identity-affecting vs. identity-preserving situations and intuitions about the non-identity problem. Results show individuals treat both contexts similarly, suggesting intuitive acceptance of person-affecting views and offering insights into Population Ethics and Experimental Economics.
 cover:          /assets/images/covers/dictator.jpg
 authors:
+  - Arne Nasgowitz
   - Pablo Soto-Mota
 links:
   #AEJ:applied: https://www.aeaweb.org/articles?id=10.1257/app.20230227
