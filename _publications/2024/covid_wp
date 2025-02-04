@@ -11,6 +11,7 @@ pub_date:       "2024"
 
 abstract: >-
   During Uganda’s Covid-19 lockdown, cash transfers improved business outcomes and had lasting positive effects on household income, savings, and food security, despite market closures and movement restrictions
+cover:          /assets/images/covers/covid.webp
 authors:
   - Kjetil Bjorvatn
   - Denise Ferris
