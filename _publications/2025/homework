@@ -1,1 +1,23 @@
+---
+title:          "Homework is teamwork: Experimental evidence on parental involvement in education in Uganda"
+date:           2024-010-07 00:01:00 +0800
+# selected:       true
+type:           "Work in Progress"
+# pub:            "PEDL"
+# pub_pre:        "Submitted"
+# pub_post:       'Under review.'
+pub_last:       "(Draft in preparation)"
+pub_date:       "2025"
 
+abstract: >-
+  Parental involvement in education can be an important contribution to children's learning, and a crucial complement to other inputs, such as text books. We here report from a field experiment in Uganda, where households were offered educational material and an action plan to engage them in the learning process of their primary-school child. Our findings show that the intervention increased the time mothers spent on learning activities with their child and the time the child spent doing homework. Moreover, the intervention increased exam registration, particularly for children from low-income families.
+cover:          /assets/images/covers/homework.webp
+authors:
+  - Kjetil Bjorvatn
+  - Selim Gulesci
+  - Arne Nasgowitz
+  - Vincent Somville
+  - Lore Vandewalle
+links:
+  # WP: https://pedl.cepr.org/publications/cash-transfers-and-business-survival-during-covid-evidence-uganda
+---
