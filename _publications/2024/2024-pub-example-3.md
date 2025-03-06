@@ -10,7 +10,7 @@ pub:            "AEA Papers and Proceedings"
 pub_date:       "2024"
 
 abstract: >-
-  We randomly offered a childcare subsidy, an equivalent cash grant, or both to mothers of three-to-five-year-old children in Uganda. We find evidence of long-lasting effects of all interventions on the children's anthropometric outcomes, measured four years after the intervention.
+  We randomly offered a childcare subsidy, an equivalent cash grant, or both to mothers of three-to-five-year-old children in Uganda. We find long-lasting effects of all interventions on the children's anthropometric outcomes, measured four years after the intervention.
 cover:          /assets/images/covers/cover_aea.webp
 authors:
   - Kjetil Bjorvatn
