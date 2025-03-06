@@ -27,7 +27,7 @@ short_bio: >-
     at NHH. 
   </p>
   <p>
-    I'm a development economist and my research mainly focuses on early childhood development, education, entrepreneurship, and norms. 
+    I'm a development economist and my research mainly focuses on education, ranging from early childhood development to the transition into the labor market. I am also interested in the role of supernatural beliefs and norms. 
   </p>
 
 portrait_url: /assets/images/photos/foto1.jpg
@@ -58,7 +58,7 @@ education:
 
 awards:
 - name: <b>Development Economics</b>
-- name: Education
-- name: Labor markets
+- name: Early Childhood Development
+- name: Entrepreneurship and Labor markets
 - name: Supernatural Beliefs
 - name: Norms
