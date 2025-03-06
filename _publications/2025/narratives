@@ -11,3 +11,9 @@ pub_date:       "2024"
 
 abstract: >-
   This paper explores the relationship between ethnic diversity and conflict in Sub-Saharan Africa, based on a novel measure exploring similarity in oral traditions. This paper explores a wide range of mediators, such as intergroup contact, the relationship to ethnic identity, and content.
+cover:          /assets/images/covers/folklore.webp
+authors:
+  - Arne Nasgowitz
+links:
+  #WP: https://pedl.cepr.org/publications/cash-transfers-and-business-survival-during-covid-evidence-uganda
+---
