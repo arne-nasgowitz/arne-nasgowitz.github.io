@@ -10,11 +10,11 @@ positions:
 
 email: "arne.nasgowitz@snf.no"
 cv_link: https://drive.google.com/file/d/1FxKBrux0RnOt84nQYIirzYbx5PFva5fm/view?usp=sharing
-gscholar: uaHrSuwAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
 #github: your_github_id
 twitter: arnenasgowitz  # Do not include the '@' symbol
 # linkedin: your-linked-in-id
 bluesky: arnenasgowitz.bsky.social
+gscholar: uaHrSuwAAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
 orcid: 0000-0001-9488-9186
 
 short_bio_text_justify: false
